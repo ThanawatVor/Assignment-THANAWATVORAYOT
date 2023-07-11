@@ -28,17 +28,4 @@ int main(int argc, char **argv){
         cout<<a[i]<<" ";
     }
 }
-   pa-=n/2;
-  
-     // Using p within your program 
-  for(i=0;i<n;i++) {
- 		   cout<<pa[i]<<" "; //p is the location where p points to
- //     p++;  
- }
-
- delete [] a;  
-}
-
-  
-//}
-
+   
